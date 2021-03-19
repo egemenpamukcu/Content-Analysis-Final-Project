@@ -4,7 +4,7 @@ TweetMiner (folder): contains python scripts used to collect the tweets.
 
 File_Processing (folder): contains jupyter notebooks for processing the tweets.
 
-Data (folder): Contains all the raw data.
+Data (folder): Contains raw json data (please note that this data is not complete, full dataset was stored elsewhere due to large size).
 
 SH_FINAL_Classifiers.ipynb: A run jupyter notebook of the Logit Regression, PCA, Naive Bayes and NN classifiers. Includes notes and descriptions.
 
